@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo Gabriela</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <div class="container">
+                    <section>
+                        <h1>Gabriela Santos</h1>
+                        <img class="foto-perfil" src="https://www.pica-ai.com/_next/image/?url=https%3A%2F%2Fstatic.staticspic.com%2F_next%2Fstatic%2Fmedia%2FRectangle-1.9e8fb857.png&w=640&q=75" alt="">
+                    </section>
+                    </div>
+            
+                
+            
+                    <section>
+                        <h2>Informações Pessoais</h2>
+                        <h3>Sexo:</h3> 
+                        <h3>Idade:</h3>
+                        
+                    </section>
+                    <section>
+                        <div class="container1"></div>
+                        <h2>Informações de Contato</h2>
+                        <ul>
+                            <li><a href="">Telefone: 60223660</a></li>
+                            <li><a href="">Email: gabrielasantos@gmail.com</a></li>
+                            <li><a href="">Avenida Atlântica, Copacabana - RJ</a></li>
+                        </ul>
+                    </section>
+                    </div>
+</body>
+
+</html>
