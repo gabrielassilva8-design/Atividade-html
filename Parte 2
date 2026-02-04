@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Currículo</title>
+</head>
+<body>
+    <header>
+        <h1>Meu Currículo</h1>
+         <section>
+            <h2>Foto do Candidato(a):</h2>
+            <img src="https://www.pica-ai.com/_next/image/?url=https%3A%2F%2Fstatic.staticspic.com%2F_next%2Fstatic%2Fmedia%2FRectangle-1.9e8fb857.png&w=640&q=75" alt="Foto de perfil">
+        </section>
+
+    
+        <section>
+            <h2>Informações Pessoais:</h2>
+            <h3>Nome: Gabriela Santos da Silva</h3>
+            <h3>Idade: 17 anos</h3>
+            <h3>Contato: +55 71 2345-8260</h3>
+        </section>
+        <section>
+            <h2>Redes Sociais:</h2>
+            <h3>Instagram:</h3><a href="#Instagram">gabriela_18@</a>
+            <h3>E-mail:</h3> <a href="#e-mail">GabsPrograming2026@gmail.com</a>
+
+            
+
+        </section>
+        
+        <section>
+            <h2>Sobre Mim:</h2>
+            <p>Sou uma estudante acadêmica em busca de uma especialidade em relação a minha área técnica, </p> 
+            <p>com o objetivo de me tornar engenheira de Software.</p> 
+
+        </section>
+        <section>
+            <h2>Experiência Profissional:</h2>
+            <p>Minha experiência profissional em relação a minha área</p>
+            <p>ainda está em processo de andamento porém, consigo ter adaptabilidade em qualquer especialidade associada a programação</p>
+
+        </section>
+
+        <section>
+            <h2>Minhas Habilidades:</h2>
+            <ul>
+                <li><a href=""></a>Liderança nata</li>
+                <li><a href=""></a>Engajamento em equipe</li>
+                <li><a href=""></a>Inglês no nível avançado</li>
+                <li><a href=""></a>Pontualidade</li>
+                <li><a href=""></a>Comprometimento em relação a entrega</li>
+            </ul>
+        </section>
+        <footer>
+            <p>&copy; 2026 Meu primeiro Currículo em HTML</p>
+        </footer>
+
+    
+        
+    </header>
+    
+</body>
+</html>
