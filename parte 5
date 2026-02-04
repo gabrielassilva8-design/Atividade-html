@@ -1,0 +1,20 @@
+.foto-perfil{
+    border-radius: 50%;
+    width: 200px;
+    max-height: 200px;
+    border: 1px solid black;
+  
+}
+
+body{
+    background-color: #f7f7f7;
+}
+
+.container{
+    width: 1322px;
+    height: 400px;
+    background-color: rgb(224, 224, 145);
+    display: flex;
+    justify-content: center;
+}
+
